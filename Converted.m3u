@@ -176,7 +176,7 @@ http://live.tamilkuyilradio.com:8095/;stream/2
 http://node-32.zeno.fm/kzd2e3tx24zuv
 #EXTINF:0 group-title="Tamil Radio",Kodai FM
 http://node-30.zeno.fm/urvp16bqnd0uv
-#EXTINF:0 group-title="Tamil Movies",Neem Live TV
+#EXTINF:0 group-title="Tamil",Neem Live TV
 http://bmlive.net:8000/NEEMTv/neemlivetv/bms.m3u8
-#EXTINF:0 group-title="Tamil Movies",Raagam HD TV
+#EXTINF:0 group-title="Tamil",Raagam HD TV
 http://account12.livebox.co.in/ntvhls/ntv.m3u8
