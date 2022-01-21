@@ -3,10 +3,6 @@
 http://singamcloud.in:1935/singamtv/singamtv/playlist.m3u8
 #EXTINF:0 group-title="Tamil",SMCV
 http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
-#EXTINF:0 group-title="Tamil",Vani plus
-http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
-#EXTINF:0 group-title="Tamil",SAI TV
-http://live.singamcloud.in:1935/saitvtvl/saitvtvl/playlist.m3u8
 #EXTINF:0 group-title="Tamil",ABM Tv
 http://singamcloud.in:1935/abmtv/abmtv/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Erode Krishna
@@ -19,18 +15,10 @@ http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
 http://stream.singamcloud.in:1935/tamilstartv/tamilstartv/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Anu TV
 http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8
-#EXTINF:0 group-title="Tamil",Purple
-http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
 #EXTINF:0 group-title="Tamil",T TV
 http://singamcloud.in:1935/ttv/ttv/playlist.m3u8
 #EXTINF:0 group-title="Tamil",MN TV
-https://mntv.livebox.co.in/mntvhls/mntv.m3u8
-#EXTINF:0 group-title="Tamil",Yupp  thirai
-http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
-#EXTINF:0 group-title="Tamil",MK TV
-http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-#EXTINF:0 group-title="Tamil",MK SIX
-http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+https://mntv.livebox.co.in/mntvhls/mntv.m3u
 #EXTINF:0 group-title="Tamil",Apple Digital
 http://singamcloud.in:1935/rasinetwork/appledigitel/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Abinaya HD
@@ -39,22 +27,16 @@ http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
 http://account26.livebox.co.in/Jeyamcabletvhls/live.m3u8
 #EXTINF:0 group-title="Tamil",Vani TV HD
 http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
-#EXTINF:0 group-title="Tamil",Yaal TV
-http://198.144.149.82:8080/NOTV/VETRITV/index.m3u8?token=GTR
 #EXTINF:0 group-title="Tamil",7 Star TV
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 #EXTINF:0 group-title="Tamil",CTN
 http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
-#EXTINF:0 group-title="Tamil",TeT HD
-https://yuppmslukmo1.akamaized.net/hls/live/2005258/tet/tet/playlist.m3u8?hdnts=st=1616241422~exp=1716241322~acl=*/tet/*~data=TET_Internal_Monitoring~hmac=e0e0453fa1591de262f4beb3fb32ca108486360c9ca7e195e5e87c5c46f9852d
 #EXTINF:0 group-title="Tamil",3 Tamil
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:0 group-title="Tamil",Capital TV
 http://89.187.162.89:80/Capital_TV-LIVE/index.m3u8
 #EXTINF:0 group-title="Tamil",IBC Tamil
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Tamil",IBC Tamil Canada
-https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Tamil",IBC Pagadi
 https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
 #EXTINF:0 group-title="Tamil",IBC TAMIL Canada
@@ -71,14 +53,8 @@ https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a0
 http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
 #EXTINF:0 group-title="Tamil",HARI TV
 http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
-#EXTINF:0 group-title="Tamil",IBC Pagadi
-https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Tamil",SD Media
 http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
-#EXTINF:0 group-title="Tamil",Analai express tv
-http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
-#EXTINF:0 group-title="Tamil",Aus Tamil tv
-https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Jawahar tv
 http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Jay tv
@@ -91,9 +67,8 @@ http://account11.livebox.co.in/jcvtvhls/live.m3u8
 http://account26.livebox.co.in/Jeyamcabletvhls/live.m3u8
 #EXTINF:0 group-title="Tamil",Kalvi cholai tv
 http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8
-#EXTINF:0 group-title="Tamil",Mk tv
-http://103.199.160.85:80/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Tamil",Mn music,rtmp://mntv.livebox.co.in:1935/music/live
+#EXTINF:0 group-title="Tamil",Mn music
+rtmp://mntv.livebox.co.in:1935/music/live
 #EXTINF:0 group-title="Tamil",Mon tamil tv
 http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 #EXTINF:0 group-title="Tamil",Nine star tv
@@ -122,7 +97,7 @@ http://media.7starcloud.com:1935/live/sanatv2/chunklist_w1956626303.m3u8
 https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:0 group-title="Tamil Music",Sachin Music
 http://singamcloud.in:1935/sachinmusichd/sachinmusichd/chunklist_w1452161127.m3u8
-#EXTINF:0 group-title="Tamil Music",TDCTO (Apple Music)
+#EXTINF:0 group-title="Tamil",TDCTO (Apple Music)
 http://live.singamcloud.in:1935/applemusic/applemusic/chunklist_w792788465.m3u8
 #EXTINF:0 group-title="Tamil Music",TUNE 6
 https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
