@@ -1,49 +1,49 @@
 #EXTM3U
-#EXTINF:-1 ,Yaaltv
+#EXTINF:0 group-title="Tamil",Yaaltv
 http://198.144.149.82:8080/NOTV/YAALTV/index.m3u8?token=GTR
-#EXTINF:-1 ,Sharvesh7Star
+#EXTINF:0 group-title="Tamil",Sharvesh7Star
 http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
-#EXTINF:-1 ,SS Varma tv
+#EXTINF:0 group-title="Tamil",SS Varma tv
 http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
-#EXTINF:-1 ,Udhayam TV
+#EXTINF:0 group-title="Tamil",Udhayam TV
 http://nextgeninfotech.ddns.net:8080/udhayam/udhayam.m3u8
-#EXTINF:-1 ,Udhayam TV_Songs
+#EXTINF:0 group-title="Tamil",Udhayam TV_Songs
 http://bmlive.net:8000/udhayamtv/udhayamtv/bms.m3u8
-#EXTINF:-1 ,VTV
+#EXTINF:0 group-title="Tamil",VTV
 http://198.144.149.82:8080/NOTV/VTV/index.m3u8?token=GTR
-#EXTINF:-1 ,Penguin_HD_TDub
+#EXTINF:0 group-title="Tamil",Penguin_HD_TDub
 http://bmlive.net:8000/penguintv/penguintv/bms.m3u8
-#EXTINF:-1 ,Suriya_Udyamnt
+#EXTINF:0 group-title="Tamil",Suriya_Udyamnt
 http://nextgeninfotech.ddns.net:8080/suriya/suriya.m3u8
-#EXTINF:-1 ,Phoenix Tv
+#EXTINF:0 group-title="Tamil",Phoenix Tv
 http://198.144.149.82:8080/NOTV/PHOENIXTV/index.m3u8?token=GTR
-#EXTINF:-1 ,Ramtv hd
+#EXTINF:0 group-title="Tamil",Ramtv hd
 http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
-#EXTINF:-1 ,Prakalaya Tv
+#EXTINF:0 group-title="Tamil",Prakalaya Tv
 http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
-#EXTINF:-1 ,Mullai HD
+#EXTINF:0 group-title="Tamil",Mullai HD
 http://bmlive.net:8000/Raja/rajacbe/bms.m3u8
-#EXTINF:-1 ,Kovaitv_Songs
+#EXTINF:0 group-title="Tamil",Kovaitv_Songs
 http://accountapk.livebox.co.in/kovaitvhls/live.m3u8
-#EXTINF:-1 ,PCTV
+#EXTINF:0 group-title="Tamil",PCTV
 http://pctv.livebox.co.in/pctvhls/live.m3u8
-#EXTINF:-1 ,Ezhil
+#EXTINF:0 group-title="Tamil",Ezhil
 http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
-#EXTINF:-1 ,AsosatvHD
+#EXTINF:0 group-title="Tamil",AsosatvHD
 http://198.144.149.82:8080/NOTV/ASOSATVTAMIL/tracks-v1a1/mono.m3u8?token=GTR
-#EXTINF:-1 ,Ashoka
+#EXTINF:0 group-title="Tamil",Ashoka
 http://hdserver.7starcloud.com:1935/ashoka/channel/playlist.m3u8
-#EXTINF:0, KRP TV
+#EXTINF:0 group-title="Tamil",KRP TV
 http://live.singamcloud.in:1935/krptv/krptv/playlist.m3u8
 #EXTINF:-1 group-title="Tamil",Sharvesh
 http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
-#EXTINF:-1 ,Maatv
+#EXTINF:0 group-title="Tamil",Maatv
 http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
-#EXTINF:-1 group-title="Tamil",Sevenstarplus
+#EXTINF:0 group-title="Tamil",Sevenstarplus
 http://hdserver.7starcloud.com:1935/live/live/playlist.m3u8
-#EXTINF:-1 ,Relax TV
+#EXTINF:0 group-title="Tamil",Relax TV
 http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR
-#EXTINF:-1 ,Adutha Thalaimurai
+#EXTINF:0 group-title="Tamil",Adutha Thalaimurai
 http://singamcloud.in:1935/aduthathalaimurai/aduthathalaimurai/playlist.m3u8
 #EXTINF:0 group-title="Tamil",SINGAM TV
 http://singamcloud.in:1935/singamtv/singamtv/playlist.m3u8
