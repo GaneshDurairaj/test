@@ -1,6 +1,26 @@
 #EXTM3U
 #EXTINF:-1 ,Yaaltv
 http://198.144.149.82:8080/NOTV/YAALTV/index.m3u8?token=GTR
+#EXTINF:-1 ,Sharvesh7Star
+http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
+#EXTINF:-1 ,SS Varma tv
+http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
+#EXTINF:-1 ,Udhayam TV
+http://nextgeninfotech.ddns.net:8080/udhayam/udhayam.m3u8
+#EXTINF:-1 ,Udhayam TV_Songs
+http://bmlive.net:8000/udhayamtv/udhayamtv/bms.m3u8
+#EXTINF:-1 ,VTV
+http://198.144.149.82:8080/NOTV/VTV/index.m3u8?token=GTR
+#EXTINF:-1 ,Penguin_HD_TDub
+http://bmlive.net:8000/penguintv/penguintv/bms.m3u8
+#EXTINF:-1 ,Suriya_Udyamnt
+http://nextgeninfotech.ddns.net:8080/suriya/suriya.m3u8
+#EXTINF:-1 ,Phoenix Tv
+http://198.144.149.82:8080/NOTV/PHOENIXTV/index.m3u8?token=GTR
+#EXTINF:-1 ,Ramtv hd
+http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
+#EXTINF:-1 ,Prakalaya Tv
+http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
 #EXTINF:-1 ,Mullai HD
 http://bmlive.net:8000/Raja/rajacbe/bms.m3u8
 #EXTINF:-1 ,Kovaitv_Songs
@@ -13,8 +33,17 @@ http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
 http://198.144.149.82:8080/NOTV/ASOSATVTAMIL/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1 ,Ashoka
 http://hdserver.7starcloud.com:1935/ashoka/channel/playlist.m3u8
+#EXTINF:0, KRP TV
+http://live.singamcloud.in:1935/krptv/krptv/playlist.m3u8
+#EXTINF:-1 group-title="Tamil",Sharvesh
+http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
 #EXTINF:-1 ,Maatv
 http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
+#EXTINF:-1 group-title="Tamil",Sevenstarplus
+http://hdserver.7starcloud.com:1935/live/live/playlist.m3u8
+#EXTINF:-1 ,Relax TV
+http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR
+#EXTINF:-1 ,Adutha Thalaimurai
 http://singamcloud.in:1935/aduthathalaimurai/aduthathalaimurai/playlist.m3u8
 #EXTINF:0 group-title="Tamil",SINGAM TV
 http://singamcloud.in:1935/singamtv/singamtv/playlist.m3u8
@@ -118,8 +147,8 @@ http://singamcloud.in:1935/sachinmusichd/sachinmusichd/chunklist_w1452161127.m3u
 http://live.singamcloud.in:1935/applemusic/applemusic/chunklist_w792788465.m3u8
 #EXTINF:0 group-title="Tamil Music",TUNE 6
 https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
-#EXTINF:0 group-title="Tamil Music",Capital Music
-http://89.187.162.89:80/Capital_Music/index.m3u8
+#EXTINF:0 group-title="Tamil Music",DanmusicHD _Songs
+https://askmedia.livebox.co.in/DanMusichls/2.m3u8
 #EXTINF:0 group-title="Tamil Music",IBC Isai
 https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Tamil Music",7s Music
@@ -127,7 +156,9 @@ http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:0 group-title="Tamil Music",Isai Aruvi
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 #EXTINF:0 group-title="Tamil Music",Sun Music HD Low Quality
-http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
+http://uk1.zecast.com:1935/star-live/smusic/chunklist_w1365562027.m3u8
+#EXTINF:0 group-title="Tamil Music",Sun Music HD Quality
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt/9013.m3u8
 #EXTINF:0 group-title="Tamil News",Polimer News
 https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8
 #EXTINF:0 group-title="Tamil News",Puthiya Thalaimurai
