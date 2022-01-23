@@ -1,11 +1,20 @@
 #EXTM3U
 #EXTINF:-1 ,Yaaltv
 http://198.144.149.82:8080/NOTV/YAALTV/index.m3u8?token=GTR
+#EXTINF:-1 ,Mullai HD
+http://bmlive.net:8000/Raja/rajacbe/bms.m3u8
+#EXTINF:-1 ,Kovaitv_Songs
+http://accountapk.livebox.co.in/kovaitvhls/live.m3u8
+#EXTINF:-1 ,PCTV
+http://pctv.livebox.co.in/pctvhls/live.m3u8
+#EXTINF:-1 ,Ezhil
+http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
 #EXTINF:-1 ,AsosatvHD
 http://198.144.149.82:8080/NOTV/ASOSATVTAMIL/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1 ,Ashoka
+http://hdserver.7starcloud.com:1935/ashoka/channel/playlist.m3u8
 #EXTINF:-1 ,Maatv
 http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
-#EXTINF:-1 ,Aduthathalaimurai
 http://singamcloud.in:1935/aduthathalaimurai/aduthathalaimurai/playlist.m3u8
 #EXTINF:0 group-title="Tamil",SINGAM TV
 http://singamcloud.in:1935/singamtv/singamtv/playlist.m3u8
