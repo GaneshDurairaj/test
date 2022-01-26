@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 group-title="Tamil",SINGAM TV
 http://singamcloud.in:1935/singamtv/singamtv/playlist.m3u8
+#EXTINF:0 group-title="Tamil", Tamil Tv
+http://5.39.221.140/tamil/live/index.m3u8
 #EXTINF:0 group-title="Tamil",Amma tv
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8
 #EXTINF:0 group-title="Tamil",Anuman
@@ -15,6 +17,8 @@ http://hdserver.7starcloud.com:1935/live/live/playlist.m3u8
 http://singamcloud.in:1935/aduthathalaimurai/aduthathalaimurai/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Yaaltv
 http://198.144.149.82:8080/NOTV/YAALTV/index.m3u8?token=GTR
+#EXTINF:0 group-title="Tamil",Yaaltv1
+http://198.144.149.82:8080/NOTV/VETRITV/index.m3u8?token=GTR
 #EXTINF:0 group-title="Tamil",SS Varma tv
 http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Udhayam TV
@@ -143,6 +147,8 @@ https://mntv.livebox.co.in/musichls/live.m3u8
 http://singamcloud.in:1935/sachinmusichd/sachinmusichd/chunklist_w1452161127.m3u8
 #EXTINF:0 group-title="Tamil",TDCTO (Apple Music)
 http://live.singamcloud.in:1935/applemusic/applemusic/chunklist_w792788465.m3u8
+#EXTINF:0 group-title="Tamil Music",Mk tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 #EXTINF:0 group-title="Tamil Music",TUNE 6
 https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
 #EXTINF:0 group-title="Tamil Music",DanmusicHD _Songs
@@ -197,6 +203,14 @@ http://node-30.zeno.fm/urvp16bqnd0uv
 http://bmlive.net:8000/NEEMTv/neemlivetv/bms.m3u8
 #EXTINF:0 group-title="Tamil",Raagam HD TV
 http://account12.livebox.co.in/ntvhls/ntv.m3u8
+#EXTINF:0 group-title="Tamil", Thendral Tv
+https://iptelevision.in/hls/thendral.m3u8
+#EXTINF:0 group-title="Dish Channels",Sun TV
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt/14020.m3u8
+#EXTINF:0 group-title="Dish Channels",K TV
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt/26566.m3u8
+#EXTINF:0 group-title="Dish Channels",Zee Thirai
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=224
 #EXTINF:0 group-title="Dish Channels",Captain TV
 https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in_288p/index.m3u8
 #EXTINF:0 group-title="Dish Channels",DD Podhigai
@@ -215,3 +229,13 @@ http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 http://uk1.zecast.com:1935/star-live/smusic/chunklist_w1365562027.m3u8
 #EXTINF:0 group-title="Dish Channels",Sun Music HD Quality
 https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt/9013.m3u8
+#EXTINF:0 group-title="Dish Channels",Mk Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:0 group-title="Dish Channels",Mk tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:0 group-title="Dish Channels",Tune 6
+https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
+#EXTINF:0 group-title="Dish Channels",Jaya movie
+https://catchup.yuppcdn.net/amazonv2/20/preview/jayamovies/master/master.m3u8
+#EXTINF:0 group-title="Dish Channels",SIRIPOLI
+http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
