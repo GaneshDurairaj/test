@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:0 group-title="Tamil",Amma tv
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8
-#EXTINF:0 group-title="Tamil",Silversat_Media
-http://7starcloud.com:1935/silversat/silversattv/playlist.m3u8
 #EXTINF:0 group-title="Tamil",SMCV
 http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Adutha Thalaimurai
@@ -177,6 +175,8 @@ http://account12.livebox.co.in/ntvhls/ntv.m3u8
 https://iptelevision.in/hls/thendral.m3u8
 #EXTINF:0 group-title="Tamil", Tamil Tv
 http://5.39.221.140/tamil/live/index.m3u8
+#EXTINF:0 group-title="Tamil",Silversat_Media
+http://7starcloud.com:1935/silversat/silversattv/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Anuman
 http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8
 #EXTINF:0 group-title="Dish Channels",Captain TV
