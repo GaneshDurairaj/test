@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Tamil",Amma tv
-http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8
-#EXTINF:0 group-title="Tamil",SMCV
-http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
-#EXTINF:0 group-title="Tamil",Adutha Thalaimurai
-http://singamcloud.in:1935/aduthathalaimurai/aduthathalaimurai/playlist.m3u8
 #EXTINF:0 group-title="Tamil",SS Varma tv
 http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Penguin_HD_TDub
@@ -119,6 +113,12 @@ http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 http://198.144.149.82:8080/KALVI_GR10/index.m3u8?token=GTR
 #EXTINF:0 group-title="Tamil",T TV
 http://singamcloud.in:1935/ttv/ttv/playlist.m3u8
+#EXTINF:0 group-title="Tamil",Amma tv
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8
+#EXTINF:0 group-title="Tamil",SMCV
+http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
+#EXTINF:0 group-title="Tamil",Adutha Thalaimurai
+http://singamcloud.in:1935/aduthathalaimurai/aduthathalaimurai/playlist.m3u8
 #EXTINF:0 group-title="Tamil Music",Isai Saral
 http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
 #EXTINF:0 group-title="Tamil Music",MN Music
