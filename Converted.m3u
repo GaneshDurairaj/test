@@ -145,14 +145,10 @@ http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 http://uk1.zecast.com:1935/star-live/smusic/chunklist_w1365562027.m3u8
 #EXTINF:0 group-title="Tamil News",Maalai Murasu
 https://m-c06-j2apps.s.llnwi.net/hls/7074.MalaiMurasuTV.in_480p/index.m3u8
-#EXTINF:0 group-title="Tamil News",Puthiya Thalaimurai
-http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist_b1800000.m3u8
 #EXTINF:0 group-title="Tamil News",News 18 TamilNadu
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
 #EXTINF:0 group-title="Tamil News",Thanthi TV
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
-#EXTINF:0 group-title="Tamil News",News J
-http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b1024,b1824,.smil/chunklist.m3u8
 #EXTINF:0 group-title="Tamil Kids",Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:0 group-title="Tamil Radio",LANKASRI FM
