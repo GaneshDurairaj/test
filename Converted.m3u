@@ -123,8 +123,6 @@ https://iptelevision.in/hls/thendral.m3u8
 http://7starcloud.com:1935/silversat/silversattv/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Anuman
 http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8
-#EXTINF:0 group-title="Dish Channels",Captain TV
-https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in_288p/index.m3u8
 #EXTINF:0 group-title="Dish Channels",DD Podhigai
 https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in_480p/index.m3u8
 #EXTINF:0 group-title="Dish Channels",Kalaignar Tv
@@ -145,8 +143,6 @@ http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 #EXTINF:0 group-title="Dish Channels",Tune 6
 https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
-#EXTINF:0 group-title="Dish Channels",Jaya movie
-https://catchup.yuppcdn.net/amazonv2/20/preview/jayamovies/master/master.m3u8
 #EXTINF:0 group-title="Dish Channels",SIRIPOLI
 http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
 #EXTINF:0 group-title="Dish Channels" , IMAYAM TV
