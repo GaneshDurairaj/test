@@ -105,19 +105,19 @@ https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
 #EXTINF:0 group-title="Tamil Kids",Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:0 group-title="Tamil Radio",LANKASRI FM
+#EXTINF:0 group-title="Tamil Radio" radio="true",LANKASRI FM
 http://media1.lankasri.fm:8032/live?type=http&nocache=1461942
-#EXTINF:0 group-title="Tamil Radio",AKARAM FM
+#EXTINF:0 group-title="Tamil Radio" radio="true",AKARAM FM
 http://ourfile.info/akaram.mp3
-#EXTINF:0 group-title="Tamil Radio",AADHAVAN FM
+#EXTINF:0 group-title="Tamil Radio" radio="true",AADHAVAN FM
 http://s1.voscast.com:9038/mountpoint3
-#EXTINF:0 group-title="Tamil Radio",Tamil Media FM
+#EXTINF:0 group-title="Tamil Radio" radio="true",Tamil Media FM
 http://s6.voscast.com:10014/;stream.mp3
-#EXTINF:0 group-title="Tamil Radio",ILC Tamil FM
+#EXTINF:0 group-title="Tamil Radio" radio="true",ILC Tamil FM
 http://s2.voscast.com:9370/;stream.mp3
-#EXTINF:0 group-title="Tamil Radio",Iyalisai FM
+#EXTINF:0 group-title="Tamil Radio" radio="true",Iyalisai FM
 http://37.187.79.93:9350/stream
-#EXTINF:0 group-title="Tamil Radio",Tamil Kuil FM
+#EXTINF:0 group-title="Tamil Radio" radio="true",Tamil Kuil FM
 http://live.tamilkuyilradio.com:8095/;stream/2
 #EXTINF:0 group-title="Tamil",Raagam HD TV
 http://account12.livebox.co.in/ntvhls/ntv.m3u8
