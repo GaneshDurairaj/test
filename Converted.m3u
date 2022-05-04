@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:0 group-title="Tamil",SS Varma tv
 http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
-#EXTINF:0 group-title="Tamil",SD Media
+#EXTINF:0 group-title="Tamil",SD Media Tv
+http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
+#EXTINF:0 group-title="Tamil",Asosa Tv
 http://bmlive.net:8000/sstar/asosa/bms.m3u8
-#EXTINF:0 group-title="Tamil",SKY TV
-http://nextgeninfotech.ddns.net:8080/skylink/skylink.m3u8
 #EXTINF:0 group-title="Tamil",Penguin_HD_TDub
 http://bmlive.net:8000/penguintv/penguintv/bms.m3u8
 #EXTINF:0 group-title="Tamil",Suriya_Udyamnt
