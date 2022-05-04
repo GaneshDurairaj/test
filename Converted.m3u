@@ -147,6 +147,24 @@ https://iptelevision.in/hls/thendral.m3u8
 http://7starcloud.com:1935/silversat/silversattv/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Anuman
 http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8
+#EXTINF:0 group-title="Dish Channels" , Sun HD
+http://103.132.16.98:8080/suntvhd/mpegts
+#EXTINF:0 group-title="Dish Channels" , KTV HD
+http://103.132.16.98:8080/suntvhd/mpegts
+#EXTINF:0 group-title="Dish Channels" , Sun Music HD
+http://103.132.16.98:8080/sunmusichd/mpegts
+#EXTINF:0 group-title="Dish Channels" , Star Vijay HD
+http://103.132.16.98:8080/sunmusichd/mpegts
+#EXTINF:0 group-title="Dish Channels" , Jaya TV HD
+http://103.132.16.98:8080/jayatvhd/mpegts
+#EXTINF:0 group-title="Dish Channels" , Star Movies HD
+http://103.132.16.98:8080/starmovieshd/mpegts
+#EXTINF:0 group-title="Dish Channels" , Star Movies Select HD
+http://103.132.16.98:8080/starmoviesselecthd/mpegts
+#EXTINF:0 group-title="Dish Channels" , Star Sports1 HD
+http://103.132.16.98:8080/starsports1/mpegts
+#EXTINF:0 group-title="Dish Channels" , Star Sports2 HD
+http://103.132.16.98:8080/starsports2/mpegts
 #EXTINF:0 group-title="Dish Channels",DD Podhigai
 https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in_480p/index.m3u8
 #EXTINF:0 group-title="Dish Channels",Raj TV
@@ -205,5 +223,4 @@ http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 #EXTINF:0 group-title="Sports Channels" , A Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-#EXTINF:0 group-title="Test" , Sun HD
-http://103.132.16.98:8080/suntvhd/mpegts
+
