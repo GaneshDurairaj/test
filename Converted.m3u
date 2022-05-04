@@ -150,11 +150,11 @@ http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8
 #EXTINF:0 group-title="Dish Channels" , Sun HD
 http://103.132.16.98:8080/suntvhd/mpegts
 #EXTINF:0 group-title="Dish Channels" , KTV HD
-http://103.132.16.98:8080/suntvhd/mpegts
+http://103.132.16.98:8080/ktvhd/mpegts
 #EXTINF:0 group-title="Dish Channels" , Sun Music HD
 http://103.132.16.98:8080/sunmusichd/mpegts
 #EXTINF:0 group-title="Dish Channels" , Star Vijay HD
-http://103.132.16.98:8080/sunmusichd/mpegts
+http://103.132.16.98:8080/starvijayhd/mpegts
 #EXTINF:0 group-title="Dish Channels" , Jaya TV HD
 http://103.132.16.98:8080/jayatvhd/mpegts
 #EXTINF:0 group-title="Dish Channels" , Star Movies HD
@@ -162,9 +162,9 @@ http://103.132.16.98:8080/starmovieshd/mpegts
 #EXTINF:0 group-title="Dish Channels" , Star Movies Select HD
 http://103.132.16.98:8080/starmoviesselecthd/mpegts
 #EXTINF:0 group-title="Dish Channels" , Star Sports1 HD
-http://103.132.16.98:8080/starsports1/mpegts
+http://103.132.16.98:8080/starsports1hd/mpegts
 #EXTINF:0 group-title="Dish Channels" , Star Sports2 HD
-http://103.132.16.98:8080/starsports2/mpegts
+http://103.132.16.98:8080/starsports2hd/mpegts
 #EXTINF:0 group-title="Dish Channels",DD Podhigai
 https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in_480p/index.m3u8
 #EXTINF:0 group-title="Dish Channels",Raj TV
