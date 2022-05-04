@@ -2,7 +2,7 @@
 #EXTINF:0 group-title="Tamil",SS Varma tv
 http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
 #EXTINF:0 group-title="Tamil",SD Media
-http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
+http://bmlive.net:8000/sstar/asosa/bms.m3u8
 #EXTINF:0 group-title="Tamil",SKY TV
 http://nextgeninfotech.ddns.net:8080/skylink/skylink.m3u8
 #EXTINF:0 group-title="Tamil",Penguin_HD_TDub
@@ -73,6 +73,24 @@ http://198.144.149.82:8080/NOTV/VTV/index.m3u8?token=GTR
 http://account13.livebox.co.in/palartvhls/live.m3u8
 #EXTINF:0 group-title="Tamil",7Star
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
+#EXTINF:0 group-title="Tamil",Anbu TV
+http://nextgeninfotech.ddns.net:8080/anbu/anbu.m3u8
+#EXTINF:0 group-title="Tamil",CTN2 TV
+http://bmlive.net:8000/ctn/ctn/bms.m3u8
+#EXTINF:0 group-title="Tamil",Maya TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/mayatv_low/index.m3u8
+#EXTINF:0 group-title="Tamil",Sai TV
+http://198.144.149.82:8080/NOTV/SAITVMD/index.m3u8?token=GTR
+#EXTINF:0 group-title="Tamil",Selfie TV
+http://bmlive.net:8000/selfeetv/selfeetv/bms.m3u8
+#EXTINF:0 group-title="Tamil",Tharun TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
+#EXTINF:0 group-title="Tamil",Aasai TV
+http://osaitv.livebox.co.in/osaihls/live.m3u8
+#EXTINF:0 group-title="Tamil",Arunai TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/arunaitvtvm_low/index.m3u8
+#EXTINF:0 group-title="Tamil",Vani Plus TV
+http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
 #EXTINF:0 group-title="Tamil",TVI
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Kalvi TV
@@ -107,6 +125,8 @@ https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
 #EXTINF:0 group-title="Tamil Kids",Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:0 group-title="Tamil Radio" radio="true",Minnal FM
+https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
 #EXTINF:0 group-title="Tamil Radio" radio="true",LANKASRI FM
 http://media1.lankasri.fm:8032/live?type=http&nocache=1461942
 #EXTINF:0 group-title="Tamil Radio" radio="true",AKARAM FM
@@ -151,9 +171,21 @@ https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
 http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
 #EXTINF:0 group-title="Dish Channels" , IMAYAM TV
 https://idvd.multitvsolution.com/idvo/imayamtv_360p/index.m3u8
+#EXTINF:0 group-title="Dish Channels" , Captain TV
+http://103.199.160.85/Content/captain/Live/Channel(Captain)/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Dish Channels" , Makkal TV
 https://m-c18-j2apps.s.llnwi.net/hls/0211.MakkalTV.in_480p/index.m3u8
 #EXTINF:0 group-title="Dish Channels" , Vasanth TV
 http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
 #EXTINF:0 group-title="Dish Channels" , Kalaignar Murasu
 http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
+#EXTINF:0 group-title="English Channels" , Star Movies HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="English Channels" , Movie Sphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="English Channels" , Groovy
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:0 group-title="English Channels" , Popcorn Flix Action
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/chunklist_w1664701223.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Vod Tamil (2022)",Anbarivu (2022)
+http://c10.sendfilesda.xyz/shr/Tamil%20Movies/Tamil%202022%20Movies/Anbarivu%20(2022)/Anbarivu%20(2022)%20HDRip/Anbarivu%20(2022)%20HDRip%20Single%20Part%20(640x360).mp4
