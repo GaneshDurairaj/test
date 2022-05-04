@@ -67,8 +67,8 @@ http://198.144.149.82:8080/NOTV/NINETV/index.m3u8?token=GTR
 http://198.144.149.82:8080/NOTV/VTV/index.m3u8?token=GTR
 #EXTINF:0 group-title="Tamil",Palaru tv
 http://account13.livebox.co.in/palartvhls/live.m3u8
-#EXTINF:0 group-title="Tamil",Thirumalai tv
-http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
+#EXTINF:0 group-title="Tamil",7Star
+http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
 #EXTINF:0 group-title="Tamil",TVI
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Kalvi TV
