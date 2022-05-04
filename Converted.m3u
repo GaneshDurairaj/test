@@ -149,6 +149,8 @@ http://7starcloud.com:1935/silversat/silversattv/playlist.m3u8
 http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8
 #EXTINF:0 group-title="Dish Channels",DD Podhigai
 https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in_480p/index.m3u8
+#EXTINF:0 group-title="Dish Channels",Raj TV
+http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Dish Channels",Kalaignar Tv
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:0 group-title="Dish Channels",Polimer
@@ -187,3 +189,21 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:0 group-title="English Channels" , Popcorn Flix Action
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/chunklist_w1664701223.m3u8
+#EXTINF:0 group-title="English Channels" , Star World
+http://221.120.204.4/star-world-LOCKLE/index.m3u8
+#EXTINF:0 group-title="English Channels" , Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+#EXTINF:0 group-title="English Channels" , Dove Channel
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+#EXTINF:0 group-title="English Channels" , Distro TV
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:0 group-title="English Channels" , RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 group-title="Sports Channels" , PTV Sports
+http://221.120.204.4/geo-super-LOCKLE/index.m3u8
+#EXTINF:0 group-title="Sports Channels" , Geo Super
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+#EXTINF:0 group-title="Sports Channels" , A Sports
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+#EXTINF:0 group-title="Test" , Sun HD
+http://103.132.16.98:8080/suntvhd/mpegts
