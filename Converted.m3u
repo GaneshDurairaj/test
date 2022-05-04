@@ -3,6 +3,8 @@
 http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
 #EXTINF:0 group-title="Tamil",SD Media
 http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
+#EXTINF:0 group-title="Tamil",SKY TV
+http://nextgeninfotech.ddns.net:8080/skylink/skylink.m3u8
 #EXTINF:0 group-title="Tamil",Penguin_HD_TDub
 http://bmlive.net:8000/penguintv/penguintv/bms.m3u8
 #EXTINF:0 group-title="Tamil",Suriya_Udyamnt
@@ -29,6 +31,8 @@ http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
 http://142.44.213.115:8888/gta_tamil/index.m3u8
 #EXTINF:-1 group-title="Tamil",Sharvesh
 http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
+#EXTINF:-1 group-title="Tamil",SSTV
+http://7starcloud.com:1935/live/sstv2/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Maatv
 http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
 #EXTINF:0 group-title="Tamil",MSN TV
