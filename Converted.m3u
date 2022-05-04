@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 group-title="Tamil",SS Varma tv
 http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
+#EXTINF:0 group-title="Tamil",SD Media
+http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Penguin_HD_TDub
 http://bmlive.net:8000/penguintv/penguintv/bms.m3u8
 #EXTINF:0 group-title="Tamil",Suriya_Udyamnt
@@ -53,8 +55,6 @@ https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a0
 http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
 #EXTINF:0 group-title="Tamil",HARI TV
 http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
-#EXTINF:0 group-title="Tamil",SD Media
-http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Jawahar tv
 http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Kalvi cholai tv
