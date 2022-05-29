@@ -99,6 +99,14 @@ http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Kalvi TV
 http://198.144.149.82:8080/KALVI_GR10/index.m3u8?token=GTR
+#EXTINF:-1 group-title="Tamil",Rasi hollywood
+http://singamcloud.in/rasinetworks/rasihollywood/index.m3u8
+#EXTINF:-1 group-title="Tamil",MM CLASSIC 
+http://198.144.149.82:8080/NOTV/MMCLASSIC/index.m3u8?token=GTR
+#EXTINF:-1 group-title="Tamil",MM TV 
+http://198.144.149.82:8080/NOTV/MMTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="Tamil",Kankaru tv 
+http://198.144.149.82:8080/NOTV/KANGARUTV/index.m3u8?token=GTR
 #EXTINF:0 group-title="Tamil Music",Isai Saral
 http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
 #EXTINF:0 group-title="Tamil Music",MN Music
@@ -118,9 +126,11 @@ http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:0 group-title="Tamil Music",Isai Aruvi
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 #EXTINF:0 group-title="Tamil Music",Sun Music HD Low Quality
-#EXTINF:-1 group-title="Tamil Cloud",SR MUSIX
-http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
 http://uk1.zecast.com:1935/star-live/smusic/chunklist_w1365562027.m3u8
+#EXTINF:-1 group-title="Tamil Music",SR MUSIX
+http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Music",Kalai ISAI
+http://singamcloud.in/kalai/kalaiisai/index.m3u8
 #EXTINF:0 group-title="Tamil News",Maalai Murasu
 https://m-c06-j2apps.s.llnwi.net/hls/7074.MalaiMurasuTV.in_480p/index.m3u8
 #EXTINF:0 group-title="Tamil News",News 18 TamilNadu
@@ -233,4 +243,6 @@ http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 #EXTINF:0 group-title="Sports Channels" , A Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+#EXTINF:0 group-title="Sports Channels" , Sony Six
+https://sspubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
