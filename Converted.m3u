@@ -31,6 +31,12 @@ http://142.44.213.115:8888/gta_tamil/index.m3u8
 http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
 #EXTINF:-1 group-title="Tamil",SSTV
 http://7starcloud.com:1935/live/sstv2/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Cloud",Shalini TV
+https://gvjygr2jloem-hls-live.5centscdn.com/shalini/live.stream/chunks.m3u8
+#EXTINF:-1 group-title="Tamil Cloud",PCN CHANNEL
+http://103.98.62.134:8080/gtv/gtv.m3u8
+#EXTINF:-1 group-title="Tamil Cloud",Shree TV
+http://hdserver.7starcloud.com:1935/shree/tv/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Maatv
 http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
 #EXTINF:0 group-title="Tamil",MSN TV
@@ -112,6 +118,8 @@ http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:0 group-title="Tamil Music",Isai Aruvi
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 #EXTINF:0 group-title="Tamil Music",Sun Music HD Low Quality
+#EXTINF:-1 group-title="Tamil Cloud",SR MUSIX
+http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
 http://uk1.zecast.com:1935/star-live/smusic/chunklist_w1365562027.m3u8
 #EXTINF:0 group-title="Tamil News",Maalai Murasu
 https://m-c06-j2apps.s.llnwi.net/hls/7074.MalaiMurasuTV.in_480p/index.m3u8
