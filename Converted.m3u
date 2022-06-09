@@ -77,8 +77,6 @@ http://198.144.149.82:8080/NOTV/VTV/index.m3u8?token=GTR
 http://account13.livebox.co.in/palartvhls/live.m3u8
 #EXTINF:0 group-title="Tamil",7Star
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
-#EXTINF:0 group-title="Tamil",Anbu TV
-http://nextgeninfotech.ddns.net:8080/anbu/anbu.m3u8
 #EXTINF:0 group-title="Tamil",CTN2 TV
 http://bmlive.net:8000/ctn/ctn/bms.m3u8
 #EXTINF:0 group-title="Tamil",Maya TV
@@ -89,8 +87,6 @@ http://198.144.149.82:8080/NOTV/SAITVMD/index.m3u8?token=GTR
 http://bmlive.net:8000/selfeetv/selfeetv/bms.m3u8
 #EXTINF:0 group-title="Tamil",Tharun TV
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
-#EXTINF:0 group-title="Tamil",Aasai TV
-http://osaitv.livebox.co.in/osaihls/live.m3u8
 #EXTINF:0 group-title="Tamil",Arunai TV
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/arunaitvtvm_low/index.m3u8
 #EXTINF:0 group-title="Tamil",Vani Plus TV
@@ -99,8 +95,6 @@ http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Kalvi TV
 http://198.144.149.82:8080/KALVI_GR10/index.m3u8?token=GTR
-#EXTINF:-1 group-title="Tamil",Rasi hollywood
-http://singamcloud.in/rasinetworks/rasihollywood/index.m3u8
 #EXTINF:-1 group-title="Tamil",MM CLASSIC 
 http://198.144.149.82:8080/NOTV/MMCLASSIC/index.m3u8?token=GTR
 #EXTINF:-1 group-title="Tamil",MM TV 
@@ -163,28 +157,6 @@ http://7starcloud.com:1935/silversat/silversattv/playlist.m3u8
 http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8
 #EXTINF:0 group-title="Tamil",SD Media Tv
 http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
-#EXTINF:0 group-title="Dish HD Channels" , Sun HD
-http://103.132.16.98:8080/suntvhd/mpegts
-#EXTINF:0 group-title="Dish HD Channels" , KTV HD
-http://103.132.16.98:8080/ktvhd/mpegts
-#EXTINF:0 group-title="Dish HD Channels" , Sun Music HD
-http://103.132.16.98:8080/sunmusichd/mpegts
-#EXTINF:0 group-title="Dish HD Channels" , Star Vijay HD
-http://103.132.16.98:8080/starvijayhd/mpegts
-#EXTINF:0 group-title="Dish HD Channels" , Jaya TV HD
-http://103.132.16.98:8080/jayatvhd/mpegts
-#EXTINF:0 group-title="Dish HD Channels" , Star Movies HD
-http://103.132.16.98:8080/starmovieshd/mpegts
-#EXTINF:0 group-title="Dish HD Channels" , Star Movies Select HD
-http://103.132.16.98:8080/starmoviesselecthd/mpegts
-#EXTINF:0 group-title="Dish HD Channels" , Star Sports1 HD
-http://103.132.16.98:8080/starsports1hd/mpegts
-#EXTINF:0 group-title="Dish HD Channels" , Star Sports2 HD
-http://103.132.16.98:8080/starsports1hd/mpegts
-#EXTINF:0 group-title="Dish HD Channels" , Star Sports Select1 HD
-http://103.132.16.98:8080/starsportsselect1hd/mpegts
-#EXTINF:0 group-title="Dish HD Channels" , Star World HD
-http://103.132.16.98:8080/starworldhd/mpegts
 #EXTINF:0 group-title="Dish Channels",DD Podhigai
 https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in_480p/index.m3u8
 #EXTINF:0 group-title="Dish Channels",Raj TV
