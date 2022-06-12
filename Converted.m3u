@@ -3,6 +3,8 @@
 http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Amma tv
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8
+#EXTINF:0 group-title="Tamil",SD Media Tv
+http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Penguin_HD_TDub
 http://bmlive.net:8000/penguintv/penguintv/bms.m3u8
 #EXTINF:0 group-title="Tamil",Suriya_Udyamnt
@@ -153,8 +155,6 @@ https://iptelevision.in/hls/thendral.m3u8
 http://7starcloud.com:1935/silversat/silversattv/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Anuman
 http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8
-#EXTINF:0 group-title="Tamil",SD Media Tv
-http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
 #EXTINF:0 group-title="Dish Channels",DD Podhigai
 https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in_480p/index.m3u8
 #EXTINF:0 group-title="Dish Channels",Raj TV
