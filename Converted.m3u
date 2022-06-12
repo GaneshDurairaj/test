@@ -153,8 +153,6 @@ http://account12.livebox.co.in/ntvhls/ntv.m3u8
 https://iptelevision.in/hls/thendral.m3u8
 #EXTINF:0 group-title="Tamil",Silversat_Media
 http://7starcloud.com:1935/silversat/silversattv/playlist.m3u8
-#EXTINF:0 group-title="Tamil",Anuman
-http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8
 #EXTINF:0 group-title="Dish Channels",DD Podhigai
 https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in_480p/index.m3u8
 #EXTINF:0 group-title="Dish Channels",Raj TV
