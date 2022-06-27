@@ -3,8 +3,6 @@
 http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Amma tv
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8
-#EXTINF:0 group-title="Tamil",SD Media Tv
-http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Penguin_HD_TDub
 http://bmlive.net:8000/penguintv/penguintv/bms.m3u8
 #EXTINF:0 group-title="Tamil",Suriya_Udyamnt
@@ -133,6 +131,8 @@ https://m-c06-j2apps.s.llnwi.net/hls/7074.MalaiMurasuTV.in_480p/index.m3u8
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
 #EXTINF:0 group-title="Tamil News",Thanthi TV
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
+#EXTINF:0 group-title="Tamil",SD Media Tv
+http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
 #EXTINF:0 group-title="Tamil Radio" radio="true",Minnal FM
 https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
 #EXTINF:0 group-title="Tamil Radio" radio="true",LANKASRI FM
