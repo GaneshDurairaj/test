@@ -4,9 +4,9 @@ http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
 #EXTINF:0 group-title="Tamil",Amma tv
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8
 #EXTINF:0 group-title="Tamil",Penguin_HD_TDub
+http://bmlive.net:8000/penguintv/penguintv/bms.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="http://nammaoorutv.com/dashboard/upicons/Anandha 4k_00031.png" group-title="Tamil",ANANDHA TV 
 http://198.144.149.82:8080/NOTV/ANANDHATV/index.m3u8?token=GTR
-http://bmlive.net:8000/penguintv/penguintv/bms.m3u8
 #EXTINF:0 group-title="Tamil",Suriya_Udyamnt
 http://nextgeninfotech.ddns.net:8080/suriya/suriya.m3u8
 #EXTINF:0 group-title="Tamil",Udhayam TV
