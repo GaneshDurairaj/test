@@ -3,6 +3,14 @@
 https://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:0 group-title="Tamil",UTV HD
 https://stream.galaxyott.live/live/utv/index.m3u8
+#EXTINF:0 group-title="Tamil",Anandham Tv
+https://stream.galaxyott.live/live/anandhamtv/index.m3u8
+#EXTINF:0 group-title="Tamil",Subin Tv
+https://stream.galaxyott.live/live/subintv/index.m3u8
+#EXTINF:0 group-title="Tamil",No1 Tv
+https://live.skystream.in/live/no1tv/index.m3u8
+#EXTINF:0 group-title="Tamil",Sana HD Tv
+https://galaxyott.live/hls/sanatv.m3u8
 #EXTINF:0 group-title="Tamil Music",MN Music
 https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:0 group-title="Tamil Radio" radio="true",LANKASRI FM
@@ -21,6 +29,7 @@ https://stream.zeno.fm/e9hsbbbey4zuv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0 group-title="Tamil",Thanthi Tv
 https://segment.yuppcdn.net/110322/thanthi/110322/thanthi_1800/playlist.m3u8
+
 
 
 
