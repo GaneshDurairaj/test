@@ -11,10 +11,13 @@ http://s1.voscast.com:9038/mountpoint3
 https://stream.zeno.fm/0bhsthssutzuv
 #EXTINF:0 group-title="Tamil Radio" radio="true",Radio Vaanam FM
 https://sathees.radioca.st/;stream.mp3
+#EXTINF:0 group-title="Tamil Radio" radio="true",Thendral FM
+https://thenralw.radioca.st/LiveStream
 #EXTINF:0 group-title="English Channels" , RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0 group-title="Tamil",Thanthi Tv
 https://segment.yuppcdn.net/110322/thanthi/110322/thanthi_1800/playlist.m3u8
+
 
 
 
